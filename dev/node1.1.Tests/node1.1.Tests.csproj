@@ -7,8 +7,8 @@
     <ProjectGuid>{D251148C-959F-4CAE-80F7-E3BA8530866D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>node1_1</RootNamespace>
-    <AssemblyName>node1.1.Tests</AssemblyName>
+    <RootNamespace>node3_1</RootNamespace>
+    <AssemblyName>node3.1.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
